@@ -9,7 +9,7 @@
 
 .first {
   width: 100%;
-  background-image: url(../img/p12.jpg);
+  background-image: url(../img/p16.jpg);
   height: 550px;
   opacity: inherit;
   background-repeat: no-repeat;
@@ -28,11 +28,21 @@
 }
 
 .identity {
-  padding-top: 250px;
+  padding-top: 100px;
+  padding-left: 40%;
   text-align: left;
   color: white;
   background-color: transparent;
 }
+
+.topheader {
+  padding-left: 4%;
+}
+
+
+/*.img {
+  text-align: right;
+}*/
 
 .floatl {
   float: left;
