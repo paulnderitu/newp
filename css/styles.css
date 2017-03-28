@@ -82,3 +82,19 @@
   background-color: black;
   color: white;*/
 }
+
+.kichwa {
+  text-align: center;
+  color: red;
+}
+
+.abt1 {
+  text-align: centre;
+  color: white;
+  background-image: url(../img/p16.jpg);
+  opacity: inherit;
+}
+
+.abt2 {
+  text-align: center;
+}
